@@ -1,0 +1,8 @@
+prefix=/home/slavaglaps/two1/install
+
+Name: test
+Description: Description of test
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/slavaglaps/two1/install/lib 
+Requires: 

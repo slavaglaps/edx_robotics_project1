@@ -1,0 +1,8 @@
+prefix=/home/slavaglaps/two1/devel
+
+Name: inpub
+Description: Description of inpub
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/slavaglaps/two1/devel/lib 
+Requires: message_runtime

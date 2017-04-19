@@ -1,0 +1,8 @@
+prefix=/home/slavaglaps/two1/install
+
+Name: insub
+Description: Description of insub
+Version: 0.0.0
+Cflags: -I/home/slavaglaps/two1/install/include
+Libs: -L/home/slavaglaps/two1/install/lib 
+Requires: message_runtime
